@@ -1,6 +1,6 @@
 # ComfyUI Random Image Loader
 
-![comfyui-random-image-loader](https://github.com/thezveroboy/comfyui-random-image-loader/image.jpg)
+![comfyui-random-image-loader](https://github.com/thezveroboy/comfyui-random-image-loader/blob/main/image.jpg)
 
 A custom node for ComfyUI that loads a random image from a specified folder and outputs it in the standard ComfyUI `IMAGE` format, along with a `MASK` and the image path as `STRING`. Images are loaded in their original dimensions.
 
