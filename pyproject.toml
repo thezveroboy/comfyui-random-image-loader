@@ -1,0 +1,14 @@
+[project]
+name = "random-image-loader"
+description = "A custom node for ComfyUI that loads a random image from a specified folder and outputs it in the standard ComfyUI IMAGE format, along with a MASK and the image path as STRING. Images are loaded in their original dimensions."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/thezveroboy/comfyui-random-image-loader"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-random-image-loader"
+Icon = ""
