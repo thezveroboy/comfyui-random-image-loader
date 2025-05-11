@@ -19,7 +19,7 @@ class LoadRandomImage:
     RETURN_TYPES = ("IMAGE", "MASK", "STRING")
     RETURN_NAMES = ("image", "mask", "image_path")
     FUNCTION = "load_random_image"
-    CATEGORY = "zverovboy"
+    CATEGORY = "zveroboy"
 
     @classmethod
     def IS_CHANGED(s, folder, include_subfolders=False):
